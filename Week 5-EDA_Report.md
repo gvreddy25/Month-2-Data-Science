@@ -8,4 +8,3 @@ Understand data distribution, summary statistics, and relationships using `sales
 2. Checked missing values and data types.
 3. Analyzed key statistics (mean, median, std deviation).
 4. Visualized correlations and regional sales patterns.
-s.
